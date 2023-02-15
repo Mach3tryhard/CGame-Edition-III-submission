@@ -1,7 +1,7 @@
 # CGame-Edition-III-submission
 Game I made in 4 hours.
 
-#How-to-play-in-Ro
+ How to play (Ro)
 Buna Ziua!
 Acesta este fisierul text care explica jocul!
 Jocul se afla pe o matrice unde diferite litere inseamna ceva:
