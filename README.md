@@ -1,4 +1,4 @@
-# CGame-Edition-III-submission
+# CGame-Edition-III-submission -6th Place-
 Game I made in 4 hours.
 
  How to play (Ro)
